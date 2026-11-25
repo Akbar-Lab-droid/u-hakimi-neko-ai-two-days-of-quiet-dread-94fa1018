@@ -1,0 +1,1 @@
+LGTM. The code works, the tests pass, and none of it will matter when the sun swallows the repo. Ship it anyway.
